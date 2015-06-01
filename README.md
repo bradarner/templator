@@ -32,6 +32,8 @@ mv templator ~/bin/templator
 Templator currently supports React.js. Executing the following command will generate a new `Mix` project by the name of `ReactExample`. 
 
 ```
+templator new react_example --react
+
 cd react_example
 mix
 
